@@ -1,0 +1,3 @@
+package: github.com/chkkchy/echo-server
+import:
+- package: github.com/labstack/echo

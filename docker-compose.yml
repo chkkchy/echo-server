@@ -1,0 +1,4 @@
+go-app:
+    image: my-golang-app
+    ports:
+        - "6060:8080"
